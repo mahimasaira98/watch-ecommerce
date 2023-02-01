@@ -1,0 +1,17 @@
+.search{
+    border: 1px solid #007bff !important;
+    background-color: white !important;
+}
+
+.carousel{
+    margin-top: 2rem;
+}
+
+.card-link{
+    text-decoration: underline;
+}
+
+.card-sub-title{
+    color: #6C757D;
+    font-size: 16px;
+}
